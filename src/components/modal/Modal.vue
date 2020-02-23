@@ -95,7 +95,6 @@ export default {
 }
 
 .modal--no-backdrop {
-    background: none;
     pointer-events: none;
 }
 
